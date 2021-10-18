@@ -1,5 +1,4 @@
 - Web UI developer
 - React JS, VueJS, sass
 - Taipei, Taiwan
-- PS4 Gamer
 - Cold brew coffee
